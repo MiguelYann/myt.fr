@@ -2,36 +2,36 @@ body {
   margin: 0px 0px 0px;
   text-align: center;
   font-family: fantasy, sans-serif;
-  color: white;
 }
 
-div {
+.top-container {
   background-color: #1b262c;
   padding-top: 30px;
   position: relative;
+  width: 100%;
+  color: white;
 }
 
 h1 {
   width: 20%;
   margin: 0 auto;
   font-family: 'Sacramento', fantasy, sans-serif;
-
 }
 
 .bottom-img-cloud {
   position: absolute;
+  right: 20px;
 }
 
 .top-img-cloud {
   position: absolute;
-  right: 130px;
+  left: 130px;
 }
 
 .profession {
   color: #ffc93c;
   font-size: 18px;
   font-family: fantasy, sans-serif;
-
 }
 
 h2 {
@@ -43,4 +43,15 @@ h2 {
 #img-me {
   height: 160px;
   width: 160px;
+  margin: 0 auto;
+}
+
+#logo-java {
+  height: 40px;
+  width: 40px;
+}
+
+.image-row {
+  height: 80px;
+  width: 80px;
 }
