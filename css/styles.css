@@ -1,11 +1,39 @@
 body {
   margin: 0px 0px 0px;
+  text-align: center;
+  font-family: 'Sacramento', fantasy, sans-serif;
+  color: white;
 }
 
 div {
-  background-color: #005086;
+  background-color: #1b262c;
+  padding-top: 30px;
+  position: relative;
 }
 
 h1 {
-  margin-top: 0px;
+  width: 20%;
+  margin: 0 auto;
+}
+
+.bottom-img-cloud {
+  position: absolute;
+}
+
+.top-img-cloud {
+  position: absolute;
+  right: 130px;
+}
+
+.profession {
+  color: #ffc93c;
+  font-size: 18px;
+  font-family: fantasy, sans-serif;
+
+}
+
+h2 {
+  color: #ffc93c;
+  font-size: 18px;
+  font-family: fantasy, sans-serif;
 }
