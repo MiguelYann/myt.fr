@@ -1,7 +1,7 @@
 body {
   margin: 0px 0px 0px;
   text-align: center;
-  font-family: 'Sacramento', fantasy, sans-serif;
+  font-family: fantasy, sans-serif;
   color: white;
 }
 
@@ -14,6 +14,8 @@ div {
 h1 {
   width: 20%;
   margin: 0 auto;
+  font-family: 'Sacramento', fantasy, sans-serif;
+
 }
 
 .bottom-img-cloud {
@@ -36,4 +38,9 @@ h2 {
   color: #ffc93c;
   font-size: 18px;
   font-family: fantasy, sans-serif;
+}
+
+#img-me {
+  height: 160px;
+  width: 160px;
 }
