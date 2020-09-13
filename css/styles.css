@@ -18,14 +18,15 @@ h1 {
   font-family: 'Sacramento', fantasy, sans-serif;
 }
 
-.bottom-img-cloud {
+/* .bottom-img-cloud {
   position: absolute;
   right: 20px;
-}
+} */
 
 .top-img-cloud {
   position: absolute;
-  left: 130px;
+  left: 30px;
+  bottom: 20px;
 }
 
 .profession {
@@ -54,4 +55,10 @@ h2 {
 .image-row {
   height: 80px;
   width: 80px;
+}
+
+#logo-cloud {
+  position: absolute;
+  right: 30px;
+  top: 20px;
 }
