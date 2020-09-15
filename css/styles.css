@@ -2,7 +2,6 @@ body {
   margin: 0 0 0 0;
   text-align: center;
   font-family: 'Merriweather Sans', sans-serif;
-
 }
 
 .top-container {
@@ -101,6 +100,11 @@ hr {
 .bottom-container {
   background-color: #1b262c;
   color: white;
-  padding-top: 10px ;
+  padding-top: 10px;
   margin-bottom: 0;
+}
+
+a:hover {
+  opacity: 0.9;
+
 }
