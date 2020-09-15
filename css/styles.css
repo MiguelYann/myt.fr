@@ -33,8 +33,8 @@ h1 {
 
 h2 {
   color: #ffc93c;
-  font-size: 2.5rem;
-  font-family: fantasy, sans-serif;
+  font-size: 1.5rem;
+  font-family: 'Merriweather Sans', sans-serif;
 }
 
 #img-me {
@@ -107,4 +107,16 @@ hr {
 a:hover {
   opacity: 0.9;
 
+}
+
+#text-copyright {
+  margin-bottom: 0;
+}
+
+#curly-brace-close {
+color: #318fb5;
+}
+
+#curly-brace-open {
+  color: #ea5455;
 }
