@@ -78,6 +78,7 @@ h2 {
 }
 
 .skill-row {
+  position: relative;
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
@@ -119,4 +120,11 @@ color: #318fb5;
 
 #curly-brace-open {
   color: #ea5455;
+}
+
+.most {
+  float: right;
+  position: absolute;
+  top: 50%;
+  left: 100%;
 }
